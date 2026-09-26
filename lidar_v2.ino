@@ -9,8 +9,8 @@
 #include <WebServer.h>
 
 // ==================== CONFIGURACIÓN WIFI ====================
-const char* ssid = "Rodriguez";
-const char* password = "arqui2021";
+const char* ssid = "tu_red_wifi";
+const char* password = "tu_clave_wifi";
 
 // ==================== PINES ====================
 #define SERVO_AZIMUTH_PIN 15
